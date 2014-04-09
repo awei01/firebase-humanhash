@@ -1,0 +1,13 @@
+### Linux ###
+*~
+.fuse_hidden*
+
+### Node ###
+# Logs
+logs
+*.log
+
+### SublimeText ###
+# workspace files are user-specific
+*.sublime-workspace
+*.sublime-project
