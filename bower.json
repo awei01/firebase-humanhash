@@ -1,0 +1,15 @@
+{
+  "name": "firebase-humanhash",
+  "version": "0.0.1",
+  "main": "firebase-humanhash.js",
+  "ignore": [
+    "LICENSE",
+    "README.md",
+    ".gitignore",
+    "bower.json",
+    "example.coffee",
+    "firebase-humanhash.coffee",
+    "firebase-humanhash.sublime-project",
+    "package.json"
+  ]
+}
