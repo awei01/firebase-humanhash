@@ -1,6 +1,6 @@
 {
   "name": "firebase-humanhash",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Human-readable representations of Firebase push() IDs for JavaScript",
   "author": "neverfox <github.to.soma@neverbox.com>",
   "main": "./firebase-humanhash.js",
