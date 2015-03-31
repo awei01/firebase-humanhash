@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Human-readable representations of Firebase push() IDs for JavaScript",
   "author": "neverfox <github.to.soma@neverbox.com>",
+  "main": "./firebase-humanhash.js",
   "repository": {
     "type": "git",
     "url": "git@gitlab.com:neverfox/firebase-humanhash.git"
